@@ -59,4 +59,4 @@ All company names, people and figures in the demo are fictional.
 
 ---
 
-Built by [Mouad Sehli](https://github.com/Muaddd1).
+Built by [Mouad Sehli](https://github.com/Muaddd1). Portfolio and contact: [muad-portfolio.vercel.app](https://muad-portfolio.vercel.app).
