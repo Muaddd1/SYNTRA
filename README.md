@@ -57,6 +57,6 @@ This is a showcase repository: it holds screenshots only. The full source code i
 
 All company names, people and figures in the demo are fictional.
 
----
+## Author
 
-Built by [Mouad Sehli](https://github.com/Muaddd1). Portfolio and contact: [muad-portfolio.vercel.app](https://muad-portfolio.vercel.app).
+Built by [Mouad Sehli](https://muad-portfolio.vercel.app) ([GitHub](https://github.com/Muaddd1)), freelance front-end developer (React, TypeScript, Tailwind). More work and contact details are on the [portfolio](https://muad-portfolio.vercel.app).
